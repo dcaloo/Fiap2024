@@ -1,0 +1,28 @@
+* {
+    font-family: "Heebo", serif;   
+}
+:root {
+    --color-light:#F4F5F9;
+} 
+
+.navbar-toggler{
+    box-shadow: none !important;
+    border-color: #fff;
+}
+
+.hero {
+    background-color: var(--color-light);
+}
+
+.colecao {
+    background-color: var(--color-light);
+    min-height: 60vh;
+}
+
+.outlet {
+    background-color: var(--color-light);
+}
+
+.prime {
+    background-color: var(--color-light);
+}
